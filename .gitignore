@@ -3,3 +3,6 @@ obj
 *.sln.DotSettings.user
 .vs
 vendor
+/c99/out/build/x64-Debug
+/csharp/ApprovalTest.ThirtyDays.received.txt
+/csharp/ApprovalTest.ThirtyDays.approved.txt
